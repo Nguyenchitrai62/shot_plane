@@ -1,4 +1,7 @@
 # shot_plane
+
+Gameplay
+
 <div>
   <img src="https://github.com/Nguyenchitrai62/shot_plane/blob/main/images/anh1.png" alt="anh1" width="200">
 
